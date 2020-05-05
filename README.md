@@ -1,7 +1,7 @@
 # User groups for AV/Lighting/Sound equipment and software
 Inspirational overview of useful user groups and forums. 
 
-#### 📝 Contribute to the list by making pull requests. Watch (this video)[https://www.youtube.com/watch?v=rgbCcBNZcdQ] if you don't know how 🎉
+#### 📝 Contribute to the list by making pull requests. Watch [this video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) if you don't know how 🎉
 
 --- 
 # The list
