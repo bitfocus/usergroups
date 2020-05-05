@@ -4,7 +4,7 @@ Inspirational overview of useful user groups and forums.
 #### 📝 Contribute to the list by making pull requests. Watch [this video](https://www.youtube.com/watch?v=rgbCcBNZcdQ) if you don't know how 🎉
 
 --- 
-# The list
+# Groups/forums by manufacturer
 
 ### Analog Way
 * [FB: Analog Way's Presentation Systems](https://www.facebook.com/groups/LiveCore.AW/) ~3500 members
