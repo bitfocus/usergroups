@@ -1,5 +1,10 @@
 # User groups for AV/Lighting/Sound equipment and software
-Inspirational overview of useful industry user groups and forums. Please contribute by making a pull request! 🎉
+Inspirational overview of useful user groups and forums. 
+
+#### 📝 Contribute to the list by making pull requests. Watch (this video)[https://www.youtube.com/watch?v=rgbCcBNZcdQ] if you don't know how 🎉
+
+--- 
+# The list
 
 ### Analog Way
 * [FB: Analog Way's Presentation Systems](https://www.facebook.com/groups/LiveCore.AW/) ~3500 members
@@ -13,7 +18,7 @@ Inspirational overview of useful industry user groups and forums. Please contrib
 * [Christie video processors](https://www.facebook.com/groups/201344463214236/) ~2600 members
 
 ### Bitfocus
-* [FB: Companion User Grouo](https://www.facebook.com/groups/companion/) ~7000 members
+* [FB: Companion User Group](https://www.facebook.com/groups/companion/) ~7000 members
 
 ### Blackmagic Design
 * [FB: Blackmagic Design Equipment users](https://www.facebook.com/groups/1646532028944314/) ~4000 members
